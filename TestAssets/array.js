@@ -8,7 +8,7 @@ module.exports = [
     {
         name: 'Hasan Ali',
         phone: '7737432335',
-        email: 'hasan@email.com',
+        email: 'hasanAli@email.com',
         title: 'Executive Assistant',
     },
     {

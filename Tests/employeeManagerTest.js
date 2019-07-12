@@ -1,4 +1,5 @@
 var manager = {}
+
 var testData = require('../TestAssets/array')
 module.exports = {
     beforeEach: browser => {
